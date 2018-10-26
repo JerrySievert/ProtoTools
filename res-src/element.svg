@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="50" style="zoom: 1;" cursor="default" id="SvgjsSvg1006" width="45">
+  <path d="M0,0 h45 v50 H0" fill="#f0f0f0"></path>
+  <line
+    x1="22.5"
+    y1="17"
+    x2="22.5"
+    y2="27"
+    stroke="black"
+    stroke-width="0.75"></line>
+
+  <line
+    x1="17.5"
+    y1="22"
+    x2="27.5"
+    y2="22"
+    stroke="black"
+    stroke-width="0.75"></line>
+
+  <text
+    style="font-size:10px;font-family:Arial;text-anchor:middle;fill:#000000"
+    x="22.5"
+    y="49"
+    font-size="10px">LABEL</text>
+</svg>

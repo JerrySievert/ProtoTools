@@ -1,0 +1,15 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "SVG Tools for Proto Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN ../LICENSE.txt",
+  "dependencies": {
+    "svg.js": "^2.6.6",
+    "svgdom": "0.0.15"
+  }
+}

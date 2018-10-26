@@ -1,0 +1,176 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="380" style="zoom: 1;" cursor="default" id="SvgjsSvg1006" width="180">
+
+  <path d="M0,0 h180 v380 H0  z " id="SvgjsRect1008" fill="#f0f0f0"></path>
+  <text id="text5"
+    x="90"
+    font-size="16px"
+    y="15"
+    font-family="ImpactLabel"
+    text-anchor="middle"
+    text-rendering="geometricPrecision"
+    style="font-size:16px; font-family:ImpactLabel; text-anchor:middle; stroke:none; stroke-width:1px; color:#ffffff;">Mix Tape</text>
+
+
+<!--
+  <text id="text7" x="22.5" font-size="10" y="70" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000;">IN 1</text>
+  <text id="text29" x="22.5" font-size="10" y="120" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000; ">IN 2</text>
+  <text x="22.5px" style="fill:#000000; " font-family="ImpactLabel" y="170" id="text31" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 3</text>
+  <text x="22.5px" style="fill:#000000; " font-family="ImpactLabel" y="220" id="text33" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 4</text>
+  <text x="22.5px" style="fill:#000000; " font-family="ImpactLabel" y="270" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 5</text>
+  <text x="22.5px" style="fill:#000000; " font-family="ImpactLabel" y="320" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 6</text>
+
+  <text id="text7" x="67.5" font-size="10" y="70" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000;">IN 7</text>
+  <text id="text29" x="67.5" font-size="10" y="120" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000; ">IN 8</text>
+  <text x="67.5px" style="fill:#000000; " font-family="ImpactLabel" y="170" id="text31" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 9</text>
+  <text x="67.5px" style="fill:#000000; " font-family="ImpactLabel" y="220" id="text33" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 10</text>
+  <text x="67.5px" style="fill:#000000; " font-family="ImpactLabel" y="270" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 11</text>
+  <text x="67.5px" style="fill:#000000; " font-family="ImpactLabel" y="320" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">IN 12</text>
+
+  <text id="text7" x="112.5" font-size="10" y="70" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000;">KNOB 1</text>
+  <text id="text29" x="112.5" font-size="10" y="120" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000; ">KNOB 2</text>
+  <text x="112.5px" style="fill:#000000; " font-family="ImpactLabel" y="170" id="text31" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">KNOB 3</text>
+  <text x="112.5px" style="fill:#000000; " font-family="ImpactLabel" y="220" id="text33" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">KNOB 4</text>
+  <text x="112.5px" style="fill:#000000; " font-family="ImpactLabel" y="270" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">KNOB 5</text>
+  <text x="112.5px" style="fill:#000000; " font-family="ImpactLabel" y="320" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">KNOB 6</text>
+
+  <text id="text7" x="157.5" font-size="10" y="70" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000;">OUT 1</text>
+  <text id="text29" x="157.5" font-size="10" y="120" font-family="ImpactLabel" text-anchor="middle" text-rendering="geometricPrecision" style="fill:#000000; ">OUT 2</text>
+  <text x="157.5px" style="fill:#000000; " font-family="ImpactLabel" y="170" id="text31" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">OUT 3</text>
+  <text x="157.5px" style="fill:#000000; " font-family="ImpactLabel" y="220" id="text33" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">OUT 4</text>
+  <text x="157.5px" style="fill:#000000; " font-family="ImpactLabel" y="270" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">OUT 5</text>
+  <text x="157.5px" style="fill:#000000; " font-family="ImpactLabel" y="320" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">OUT 6</text>
+-->
+  <text x="90px" style="fill:#000000; " font-family="ImpactLabel" y="370" id="text35" text-anchor="middle" text-rendering="geometricPrecision" font-size="10">PROGRAM</text>
+
+  <line id="SvgjsLine1007" x1="112.5" y1="43" x2="112.5" y2="27" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1008" x1="112.5" y1="43" x2="116.86723096827721" y2="27.607557254622627" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1009" x1="112.5" y1="43" x2="120.90279407938073" y2="29.384088291284932" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1010" x1="112.5" y1="43" x2="124.30020987773078" y2="32.1946750700636" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1011" x1="112.5" y1="43" x2="126.80146278642022" y2="35.82586854255949" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1012" x1="112.5" y1="43" x2="128.21659601165902" y2="40.0018989666284" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1013" x1="112.5" y1="43" x2="128.43813774629075" y2="44.405619144811894" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1014" x1="112.5" y1="43" x2="127.4492630793058" y2="48.70259005941201" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1015" x1="112.5" y1="43" x2="125.32507175793403" y2="52.56647972892031" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1016" x1="112.5" y1="43" x2="121.90456403667957" y2="55.94427190999916" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1017" x1="112.5" y1="43" x2="108.13276903172279" y2="27.607557254622627" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1018" x1="112.5" y1="43" x2="104.09720592061927" y2="29.384088291284925" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1019" x1="112.5" y1="43" x2="100.69979012226922" y2="32.19467507006361" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1020" x1="112.5" y1="43" x2="98.19853721357978" y2="35.825868542559476" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1021" x1="112.5" y1="43" x2="96.62616477896836" y2="40.99466826297113" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1022" x1="112.5" y1="43" x2="96.68157208419338" y2="45.40360942593212" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1023" x1="112.5" y1="43" x2="97.93830446904006" y2="49.63000929589254" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1024" x1="112.5" y1="43" x2="100.30091982381683" y2="53.35289538511111" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1025" x1="112.5" y1="43" x2="103.589990136189" y2="56.289534387133" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1026" r="13" cx="112.5" cy="43" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+  <line id="SvgjsLine1027" x1="112.5" y1="93" x2="112.5" y2="77" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1028" x1="112.5" y1="93" x2="116.86723096827721" y2="77.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1029" x1="112.5" y1="93" x2="120.90279407938073" y2="79.38408829128493" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1030" x1="112.5" y1="93" x2="124.30020987773078" y2="82.19467507006361" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1031" x1="112.5" y1="93" x2="126.80146278642022" y2="85.82586854255949" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1032" x1="112.5" y1="93" x2="128.21659601165902" y2="90.0018989666284" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1033" x1="112.5" y1="93" x2="128.43813774629075" y2="94.4056191448119" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1034" x1="112.5" y1="93" x2="127.4492630793058" y2="98.70259005941202" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1035" x1="112.5" y1="93" x2="125.32507175793403" y2="102.5664797289203" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1036" x1="112.5" y1="93" x2="121.90456403667957" y2="105.94427190999916" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1037" x1="112.5" y1="93" x2="108.13276903172279" y2="77.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1038" x1="112.5" y1="93" x2="104.09720592061927" y2="79.38408829128493" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1039" x1="112.5" y1="93" x2="100.69979012226922" y2="82.19467507006361" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1040" x1="112.5" y1="93" x2="98.19853721357978" y2="85.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1041" x1="112.5" y1="93" x2="96.62616477896836" y2="90.99466826297113" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1042" x1="112.5" y1="93" x2="96.68157208419338" y2="95.40360942593212" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1043" x1="112.5" y1="93" x2="97.93830446904006" y2="99.63000929589253" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1044" x1="112.5" y1="93" x2="100.30091982381683" y2="103.35289538511111" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1045" x1="112.5" y1="93" x2="103.589990136189" y2="106.289534387133" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1046" r="13" cx="112.5" cy="93" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+  <line id="SvgjsLine1047" x1="112.5" y1="143" x2="112.5" y2="127" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1048" x1="112.5" y1="143" x2="116.86723096827721" y2="127.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1049" x1="112.5" y1="143" x2="120.90279407938073" y2="129.38408829128494" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1050" x1="112.5" y1="143" x2="124.30020987773078" y2="132.1946750700636" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1051" x1="112.5" y1="143" x2="126.80146278642022" y2="135.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1052" x1="112.5" y1="143" x2="128.21659601165902" y2="140.0018989666284" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1053" x1="112.5" y1="143" x2="128.43813774629075" y2="144.40561914481188" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1054" x1="112.5" y1="143" x2="127.4492630793058" y2="148.70259005941202" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1055" x1="112.5" y1="143" x2="125.32507175793403" y2="152.5664797289203" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1056" x1="112.5" y1="143" x2="121.90456403667957" y2="155.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1057" x1="112.5" y1="143" x2="108.13276903172279" y2="127.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1058" x1="112.5" y1="143" x2="104.09720592061927" y2="129.38408829128494" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1059" x1="112.5" y1="143" x2="100.69979012226922" y2="132.19467507006362" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1060" x1="112.5" y1="143" x2="98.19853721357978" y2="135.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1061" x1="112.5" y1="143" x2="96.62616477896836" y2="140.99466826297112" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1062" x1="112.5" y1="143" x2="96.68157208419338" y2="145.4036094259321" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1063" x1="112.5" y1="143" x2="97.93830446904006" y2="149.63000929589253" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1064" x1="112.5" y1="143" x2="100.30091982381683" y2="153.3528953851111" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1065" x1="112.5" y1="143" x2="103.589990136189" y2="156.28953438713302" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1066" r="13" cx="112.5" cy="143" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+  <line id="SvgjsLine1067" x1="112.5" y1="193" x2="112.5" y2="177" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1068" x1="112.5" y1="193" x2="116.86723096827721" y2="177.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1069" x1="112.5" y1="193" x2="120.90279407938073" y2="179.38408829128494" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1070" x1="112.5" y1="193" x2="124.30020987773078" y2="182.1946750700636" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1071" x1="112.5" y1="193" x2="126.80146278642022" y2="185.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1072" x1="112.5" y1="193" x2="128.21659601165902" y2="190.0018989666284" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1073" x1="112.5" y1="193" x2="128.43813774629075" y2="194.40561914481188" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1074" x1="112.5" y1="193" x2="127.4492630793058" y2="198.70259005941202" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1075" x1="112.5" y1="193" x2="125.32507175793403" y2="202.5664797289203" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1076" x1="112.5" y1="193" x2="121.90456403667957" y2="205.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1077" x1="112.5" y1="193" x2="108.13276903172279" y2="177.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1078" x1="112.5" y1="193" x2="104.09720592061927" y2="179.38408829128494" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1079" x1="112.5" y1="193" x2="100.69979012226922" y2="182.19467507006362" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1080" x1="112.5" y1="193" x2="98.19853721357978" y2="185.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1081" x1="112.5" y1="193" x2="96.62616477896836" y2="190.99466826297112" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1082" x1="112.5" y1="193" x2="96.68157208419338" y2="195.4036094259321" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1083" x1="112.5" y1="193" x2="97.93830446904006" y2="199.63000929589253" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1084" x1="112.5" y1="193" x2="100.30091982381683" y2="203.3528953851111" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1085" x1="112.5" y1="193" x2="103.589990136189" y2="206.28953438713302" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1086" r="13" cx="112.5" cy="193" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+  <line id="SvgjsLine1087" x1="112.5" y1="243" x2="112.5" y2="227" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1088" x1="112.5" y1="243" x2="116.86723096827721" y2="227.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1089" x1="112.5" y1="243" x2="120.90279407938073" y2="229.38408829128494" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1090" x1="112.5" y1="243" x2="124.30020987773078" y2="232.1946750700636" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1091" x1="112.5" y1="243" x2="126.80146278642022" y2="235.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1092" x1="112.5" y1="243" x2="128.21659601165902" y2="240.0018989666284" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1093" x1="112.5" y1="243" x2="128.43813774629075" y2="244.40561914481188" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1094" x1="112.5" y1="243" x2="127.4492630793058" y2="248.70259005941202" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1095" x1="112.5" y1="243" x2="125.32507175793403" y2="252.5664797289203" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1096" x1="112.5" y1="243" x2="121.90456403667957" y2="255.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1097" x1="112.5" y1="243" x2="108.13276903172279" y2="227.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1098" x1="112.5" y1="243" x2="104.09720592061927" y2="229.38408829128494" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1099" x1="112.5" y1="243" x2="100.69979012226922" y2="232.19467507006362" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1100" x1="112.5" y1="243" x2="98.19853721357978" y2="235.82586854255948" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1101" x1="112.5" y1="243" x2="96.62616477896836" y2="240.99466826297112" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1102" x1="112.5" y1="243" x2="96.68157208419338" y2="245.4036094259321" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1103" x1="112.5" y1="243" x2="97.93830446904006" y2="249.63000929589253" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1104" x1="112.5" y1="243" x2="100.30091982381683" y2="253.3528953851111" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1105" x1="112.5" y1="243" x2="103.589990136189" y2="256.289534387133" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1106" r="13" cx="112.5" cy="243" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+  <line id="SvgjsLine1107" x1="112.5" y1="293" x2="112.5" y2="277" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1108" x1="112.5" y1="293" x2="116.86723096827721" y2="277.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1109" x1="112.5" y1="293" x2="120.90279407938073" y2="279.3840882912849" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1110" x1="112.5" y1="293" x2="124.30020987773078" y2="282.1946750700636" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1111" x1="112.5" y1="293" x2="126.80146278642022" y2="285.8258685425595" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1112" x1="112.5" y1="293" x2="128.21659601165902" y2="290.0018989666284" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1113" x1="112.5" y1="293" x2="128.43813774629075" y2="294.4056191448119" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1114" x1="112.5" y1="293" x2="127.4492630793058" y2="298.702590059412" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1115" x1="112.5" y1="293" x2="125.32507175793403" y2="302.5664797289203" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1116" x1="112.5" y1="293" x2="121.90456403667957" y2="305.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1117" x1="112.5" y1="293" x2="108.13276903172279" y2="277.60755725462263" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1118" x1="112.5" y1="293" x2="104.09720592061927" y2="279.3840882912849" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1119" x1="112.5" y1="293" x2="100.69979012226922" y2="282.1946750700636" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1120" x1="112.5" y1="293" x2="98.19853721357978" y2="285.8258685425595" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1121" x1="112.5" y1="293" x2="96.62616477896836" y2="290.9946682629711" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1122" x1="112.5" y1="293" x2="96.68157208419338" y2="295.40360942593213" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1123" x1="112.5" y1="293" x2="97.93830446904006" y2="299.63000929589253" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1124" x1="112.5" y1="293" x2="100.30091982381683" y2="303.3528953851111" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1125" x1="112.5" y1="293" x2="103.589990136189" y2="306.289534387133" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1126" r="13" cx="112.5" cy="293" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+  <line id="SvgjsLine1127" x1="90" y1="343" x2="80.59543596332043" y2="355.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1128" x1="90" y1="343" x2="74.78309573927754" y2="347.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1129" x1="90" y1="343" x2="74.78309573927754" y2="338.05572809000085" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1130" x1="90" y1="343" x2="80.59543596332043" y2="330.05572809000085" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1131" x1="90" y1="343" x2="90" y2="327" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1132" x1="90" y1="343" x2="99.40456403667957" y2="330.05572809000085" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1133" x1="90" y1="343" x2="105.21690426072246" y2="338.05572809000085" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1134" x1="90" y1="343" x2="105.21690426072246" y2="347.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <line id="SvgjsLine1135" x1="90" y1="343" x2="99.40456403667957" y2="355.94427190999915" stroke="black" stroke-width="0.75"></line>
+  <circle id="SvgjsCircle1136" r="13" cx="90" cy="343" fill="#aaaaaa" stroke="#111111" stroke-width="0.75"></circle>
+</svg>
