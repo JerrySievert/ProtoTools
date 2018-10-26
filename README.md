@@ -16,10 +16,10 @@ creation process, from code to graphics.
 
 You can documentation for various aspects of ProtoTools:
 
-* [Layout](Layout.md) - basics of ProtoTools Layouts and Standards
-* [Modules](Modules.md) - Included modules and `require` system
-* [API](API.md) - Javascript API
-* [Programs](Programs.md) - Writing programs
+* [Layout](docs/Layout.md) - basics of ProtoTools Layouts and Standards
+* [Modules](docs/Modules.md) - Included modules and `require` system
+* [API](docs/API.md) - Javascript API
+* [Programs](docs/Programs.md) - Writing programs
 
 ## Mix Tape
 

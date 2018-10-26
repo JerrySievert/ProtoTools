@@ -1,16 +1,5 @@
 // CV module, based on SynthDevKit CV module
 
-/*
-class CV {
-  public:
-    void update (float);
-    uint32_t triggerInterval ( );
-    uint32_t triggerTotal ( );
-    bool isHigh ( );
-    bool isLow ( );
-};
-*/
-
 function CV (threshold) {
   this.threshold = threshold;
   reset();
