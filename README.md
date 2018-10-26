@@ -21,7 +21,15 @@ You can documentation for various aspects of ProtoTools:
 * [API](docs/API.md) - Javascript API
 * [Programs](docs/Programs.md) - Writing programs
 
+NOTE: due to the nature of the underlying Javascript engine, it is recommended
+to only run one ProtoTools module at a time, as there will be unpredictable
+results otherwise.
+
+This may change in the future.
+
 ## Mix Tape
 
 Mix Tape is a large prototyping module with `12 inputs`, `6 parameters`,
 `6 outputs`, and `9 programs`.
+
+![MixTape](docs/images/MixTape.png)

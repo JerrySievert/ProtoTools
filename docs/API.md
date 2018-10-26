@@ -1,7 +1,7 @@
 # Javascript API
 
-This is the Javascript API for ProtoTools.  ProtoTools uses `Node.js` style
-modules, which expose an `init` method and a `step` method.
+This is the Javascript API for ProtoTools.  ProtoTools uses a simplified `Node.js` style [modules system](Module.md) which expose an `init` method and a `step`
+method.
 
 ```
 function init ( ) {
