@@ -36,4 +36,6 @@ struct MixTapeModule : Module {
   int currentProgram = -1;
   float engineSR;
   float engineST;
+  bool skip = false;
+
 };

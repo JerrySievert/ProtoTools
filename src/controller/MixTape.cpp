@@ -189,8 +189,6 @@ void MixTapeModule::setupStates ( ) {
 }
 
 void MixTapeModule::step() {
-  static bool skip = false;
-
   if (skip) {
     skip = false;
     return;
